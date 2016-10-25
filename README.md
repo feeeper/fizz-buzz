@@ -15,6 +15,7 @@ Fizz Buzz is provided in the following Languages:
 - [Perl](https://github.com/learnbasics/fizz-buzz/blob/master/Perl.pl)
 - [Python](https://github.com/learnbasics/fizz-buzz/blob/master/Python.py)
 - [R](https://github.com/learnbasics/fizz-buzz/blob/master/R.R)
+- [Scala](https://github.com/learnbasics/fizz-buzz/blob/master/Scala.scala)
 - [Shell](https://github.com/learnbasics/fizz-buzz/blob/master/fizzbuzz.sh)
 - [PHP](https://github.com/learnbasics/fizz-buzz/blob/master/php.php)
 - [Ruby](https://github.com/learnbasics/fizz-buzz/blob/master/ruby.rb)
